@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">our</string>
+    <string name="invalid_name">Enter Valid Name</string>
+    <string name="invalid_password">Enter 4 Digit Password</string>
+    <string name="invalid_confirm_password">Password Does Not Match</string>
+    <string name="invalid_mobile">Enter Valid Mobile Number</string>
+    <string-array name="numbers">
+        <item>Onion</item>
+        <item>Tomato</item>
+        <item>Rice</item>
+    </string-array>
+
+    <string-array name="num">
+        <item>Bengaluru</item>
+        <item>Kolar</item>
+    </string-array>
+</resources>
