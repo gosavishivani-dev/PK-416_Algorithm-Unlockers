@@ -1,0 +1,422 @@
+[
+    {
+        "": "0",
+        "Commodity": "Onion",
+        "Date": "01-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "769.6391716"
+    },
+    {
+        "": "1",
+        "Commodity": "Onion",
+        "Date": "02-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "777.9264440000003"
+    },
+    {
+        "": "2",
+        "Commodity": "Onion",
+        "Date": "03-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "701.2993512999999"
+    },
+    {
+        "": "3",
+        "Commodity": "Onion",
+        "Date": "04-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "678.8860802999999"
+    },
+    {
+        "": "4",
+        "Commodity": "Onion",
+        "Date": "05-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "727.7347764"
+    },
+    {
+        "": "5",
+        "Commodity": "Onion",
+        "Date": "06-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "715.1572071"
+    },
+    {
+        "": "6",
+        "Commodity": "Onion",
+        "Date": "07-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "668.6731525"
+    },
+    {
+        "": "7",
+        "Commodity": "Onion",
+        "Date": "08-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "736.9085642000001"
+    },
+    {
+        "": "8",
+        "Commodity": "Onion",
+        "Date": "09-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "684.0111046"
+    },
+    {
+        "": "9",
+        "Commodity": "Onion",
+        "Date": "10-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "664.2580632999999"
+    },
+    {
+        "": "10",
+        "Commodity": "Onion",
+        "Date": "11-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "670.8938969999998"
+    },
+    {
+        "": "11",
+        "Commodity": "Onion",
+        "Date": "12-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "755.7990189"
+    },
+    {
+        "": "12",
+        "Commodity": "Onion",
+        "Date": "13-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "649.4298631"
+    },
+    {
+        "": "13",
+        "Commodity": "Onion",
+        "Date": "14-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "680.0244112"
+    },
+    {
+        "": "14",
+        "Commodity": "Onion",
+        "Date": "15-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "614.9180481000002"
+    },
+    {
+        "": "15",
+        "Commodity": "Onion",
+        "Date": "16-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "609.1024812999998"
+    },
+    {
+        "": "16",
+        "Commodity": "Onion",
+        "Date": "17-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "671.5257017000001"
+    },
+    {
+        "": "17",
+        "Commodity": "Onion",
+        "Date": "18-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "670.6567643999998"
+    },
+    {
+        "": "18",
+        "Commodity": "Onion",
+        "Date": "19-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "630.2906202"
+    },
+    {
+        "": "19",
+        "Commodity": "Onion",
+        "Date": "20-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "703.6392602999997"
+    },
+    {
+        "": "20",
+        "Commodity": "Onion",
+        "Date": "21-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "653.9214517000001"
+    },
+    {
+        "": "21",
+        "Commodity": "Onion",
+        "Date": "22-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "637.5041882"
+    },
+    {
+        "": "22",
+        "Commodity": "Onion",
+        "Date": "23-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "641.6190722"
+    },
+    {
+        "": "23",
+        "Commodity": "Onion",
+        "Date": "24-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "732.0167653"
+    },
+    {
+        "": "24",
+        "Commodity": "Onion",
+        "Date": "25-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "628.5535717"
+    },
+    {
+        "": "25",
+        "Commodity": "Onion",
+        "Date": "26-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "661.5883337"
+    },
+    {
+        "": "26",
+        "Commodity": "Onion",
+        "Date": "27-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "598.2256252000002"
+    },
+    {
+        "": "27",
+        "Commodity": "Onion",
+        "Date": "28-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "594.0628386"
+    },
+    {
+        "": "28",
+        "Commodity": "Onion",
+        "Date": "29-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "657.8231663"
+    },
+    {
+        "": "29",
+        "Commodity": "Onion",
+        "Date": "30-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "658.0567281"
+    },
+    {
+        "": "30",
+        "Commodity": "Onion",
+        "Date": "31-01-2019",
+        "Market": "Bengaluru",
+        "Modal": "618.464775"
+    },
+    {
+        "": "31",
+        "Commodity": "Onion",
+        "Date": "01-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "692.4427208"
+    },
+    {
+        "": "32",
+        "Commodity": "Onion",
+        "Date": "02-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "643.1992614"
+    },
+    {
+        "": "33",
+        "Commodity": "Onion",
+        "Date": "03-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "627.1901171"
+    },
+    {
+        "": "34",
+        "Commodity": "Onion",
+        "Date": "04-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "631.4556596"
+    },
+    {
+        "": "35",
+        "Commodity": "Onion",
+        "Date": "05-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "722.2312239"
+    },
+    {
+        "": "36",
+        "Commodity": "Onion",
+        "Date": "06-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "619.0203719"
+    },
+    {
+        "": "37",
+        "Commodity": "Onion",
+        "Date": "07-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "652.2616197000001"
+    },
+    {
+        "": "38",
+        "Commodity": "Onion",
+        "Date": "08-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "589.0575236000002"
+    },
+    {
+        "": "39",
+        "Commodity": "Onion",
+        "Date": "09-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "585.0308629"
+    },
+    {
+        "": "40",
+        "Commodity": "Onion",
+        "Date": "10-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "648.9009492"
+    },
+    {
+        "": "41",
+        "Commodity": "Onion",
+        "Date": "11-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "649.2237193"
+    },
+    {
+        "": "42",
+        "Commodity": "Onion",
+        "Date": "12-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "609.6996795"
+    },
+    {
+        "": "43",
+        "Commodity": "Onion",
+        "Date": "13-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "683.7324778"
+    },
+    {
+        "": "44",
+        "Commodity": "Onion",
+        "Date": "14-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "634.5320538"
+    },
+    {
+        "": "45",
+        "Commodity": "Onion",
+        "Date": "15-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "618.5584331"
+    },
+    {
+        "": "46",
+        "Commodity": "Onion",
+        "Date": "16-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "622.8464878"
+    },
+    {
+        "": "47",
+        "Commodity": "Onion",
+        "Date": "17-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "713.6489216"
+    },
+    {
+        "": "48",
+        "Commodity": "Onion",
+        "Date": "18-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "610.4579213999998"
+    },
+    {
+        "": "49",
+        "Commodity": "Onion",
+        "Date": "19-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "643.7152576000002"
+    },
+    {
+        "": "50",
+        "Commodity": "Onion",
+        "Date": "20-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "580.5238472"
+    },
+    {
+        "": "51",
+        "Commodity": "Onion",
+        "Date": "21-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "576.5076824"
+    },
+    {
+        "": "52",
+        "Commodity": "Onion",
+        "Date": "22-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "640.3862203"
+    },
+    {
+        "": "53",
+        "Commodity": "Onion",
+        "Date": "23-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "640.7158202"
+    },
+    {
+        "": "54",
+        "Commodity": "Onion",
+        "Date": "24-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "601.197143"
+    },
+    {
+        "": "55",
+        "Commodity": "Onion",
+        "Date": "25-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "675.2342625"
+    },
+    {
+        "": "56",
+        "Commodity": "Onion",
+        "Date": "26-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "626.0372772999998"
+    },
+    {
+        "": "57",
+        "Commodity": "Onion",
+        "Date": "27-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "610.0664537"
+    },
+    {
+        "": "58",
+        "Commodity": "Onion",
+        "Date": "28-02-2019",
+        "Market": "Bengaluru",
+        "Modal": "614.3565515"
+    },
+    {
+        "": "59",
+        "Commodity": "Onion",
+        "Date": "01-03-2019",
+        "Market": "Bengaluru",
+        "Modal": "705.1609277000001"
+    }
+]
