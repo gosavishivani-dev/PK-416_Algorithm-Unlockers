@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/dashboard"
+        android:title="Price Prediction"
+        android:icon="@drawable/ic_baseline_money"/>
+
+    <item
+        android:id="@+id/home"
+        android:title="Crop Arrival"
+        android:icon="@drawable/ic_baseline_filter_vintage"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="PSF"
+        android:icon="@drawable/ic_baseline_monetization"/>
+
+    <item
+        android:id="@+id/today"
+        android:title="Today's Price"
+        android:icon="@drawable/ic_baseline_today"/>
+</menu>
